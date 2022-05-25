@@ -2,7 +2,7 @@ import React from 'react'
 
 const Tag = () => {
   return (
-    <div>Tag</div>
+    <div>Skill</div>
   )
 }
 

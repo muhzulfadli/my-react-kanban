@@ -2,7 +2,10 @@ import React from 'react'
 
 const Meta = () => {
   return (
-    <div>Meta</div>
+    <div>
+      <h1>Not Started</h1>
+      <p>Way to Town of Colors</p>
+    </div>
   )
 }
 
